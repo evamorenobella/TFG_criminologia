@@ -39,3 +39,65 @@ Os habré mandado por email un par de documentos de ayuda para la elaboración d
 - [Ellemers (2018)](https://doi.org/10.1146/annurev-psych-122216-011719)
 - [Heilman (2012)](https://doi.org/10.1016/j.riob.2012.11.003)
 - [Ponthieux & Meurs (2015)](https://doi.org/10.1016/B978-0-444-59428-0.00013-8)
+
+Una vez definido y consensuado el tema (adelantármelo cuando lo sepáis por correo electrónico) debéis elaborar un primer borrador del TFG, con límite de entrega en buzón de Ágora el 18 de marzo, y esta estructura fundamental:
+
+**1. Introducción y revisión teórica**, basada en una revisión de lecturas realizadas sobre la temática elegida. Puedes realizar búsquedas a partir de Google Scholar -con interés especial en artículos que incorporen variables de tipo psicosocial, dada la línea en la que estamos- y también "tirando" de otras fuentes institucionales y/o criminológicas pertinentes de calidad. Hay que delimitar los trabajos más relevantes de los últimos 5 años seleccionando aquellos aspectos concretos del objeto de estudio sobre los que quieres centrarte (ya que podrías encontrarte una casuística amplia). Si tienes problemas con el inglés, puedes clicar "traducir de forma automática" al pasar sobre cada artículo e incluso sobre las propias búsquedas, sin miedo. Este apartado debe también dar respuesta a las preguntas:  
+
+¿Cuál es (son) el (los) fundamento(s) empírico(s) que apoyan el TFG? ¿Qué problema estás intentando responder o, a qué pregunta-s intentas dar respuesta? ¿Qué objetivos tiene tu trabajo? Estos deben estar claramente establecidos y bien justificados y razonados, según la literatura revisada. ¿Qué es nuevo en tu trabajo que no se haya hecho antes? (ESTE PUNTO ES FUNDAMENTAL). 
+  
+**2. Desarrollo (Subdividido en apartados)**. A partir de lo definido en el punto anterior proponer intervenciones y/o investigaciones que permitan reducir la incidencia de los delitos, contribuir a su prevención y/o rehabilitar a sus penados. El apartado debe incluir también estos dos subapartados:  
+
+*Método:* Sujetos y/o procedimiento (tareas) que serían llevados a cabo para poner cubrir los objetivos mencionados. Si es una investigación ¿Qué muestras quieres estudiar y por qué? ¿Qué medidas (escalas, cuestionarios, etc.) tienes pensado utilizar y por qué? ¿Qué justificación tienes para hacerlo?, si es una intervención ¿qué principales programas se ha llevado a cabo hasta la fecha al respecto y cuál es su eficacia?   
+
+*Resultados:* En función de si es una investigación o una intervención, exposición de cuáles serían los análisis de datos adecuados para someter a contraste los objetivos planteados y qué resultados se podrían obtener ¿Qué tipo de análisis e indicadores utilizarías y por qué? ¿Qué resultados prevés alcanzar y por qué? ¿Qué aspectos podrían mejorarse de los actuales programas de intervención?  
+
+**3. Conclusiones.** Finalmente debe plantearse cuál es/son la conclusión/conclusiones que se pretende/n obtener con el trabajo.  
+
+**4. Referencias bibliográficas en formato APA**
+
+## Fechas importantes:
+**CONVOCATORIA DE JUNIO:**
+- Fecha límite entrega de **PROPUESTA INICIAL**: **21 febrero** (A través de email al correo electrónico de la profesora)
+- Fecha límite entrega **PRIMER BORRADOR: 25 marzo** (A través de Ágora)
+- Fecha límite **entrega TFG: 8 mayo** (A través de Ágora)
+
+**CONVOCATORIA DE SEPTIEMBRE:**
+- Fecha límite entrega de **PROPUESTA INICIAL**: **30 mayo** (A través de email al correo electrónico de la profesora)
+- Fecha límite entrega **PRIMER BORRADOR: 24 junio** (A través de Ágora)
+- Fecha límite entrega **TFG: 8 julio** (A través de Ágora)
+
+**Las entregas OFICIALES DE BORRADOR Y TFG FINAL se realizarán a través del curso virtual de la asignatura (ÁGORA)**
+
+### ¿EN QUÉ CONSISTE LA PROPUESTA INICIAL?
+Para poder desarrollar el primer borrador del TFG, previamente necesito conocer qué idea tenéis. Es por ello que os sugiero que me enviéis una PROPUESTA INICIAL que incluya: (a) Breve introducción teórica (350 palabras aprox.), (b) Pregunta de investigación, (c) Hipótesis, (d) Método y (e) Resultados.
+Les habré enviado al email un documento de apoyo sobre la propuesta inicial. La propuesta debe ocupar máximo 2 páginas.
+
+
+## Normas para el uso de Inteligencia Artificial en el TFG
+**1.	Límites en la Generación y Redacción de Contenidos**
+- La IA puede ser utilizada para estructurar o generar ideas, pero el contenido principal del TFG debe ser redactado en su **totalidad** por el estudiante.
+- Queda prohibido el uso de IA para parafrasear o reescribir contenido ajeno, ya que esto comprometería la originalidad del trabajo.
+
+**2.	Uso Ético de IA en Análisis de Datos**
+- Si el estudiante usa IA para proponer los análisis de datos, deberá demostrar comprensión de las técnicas y análisis, así como una interpretación crítica de los resultados que se podrían obtener si tuviera datos reales.
+- **Justificación del análisis con IA:** El TFG debe incluir una explicación de por qué fue necesario el uso de IA en el análisis y cómo se ajusta al objetivo del trabajo.
+
+**3.	Compromiso de Originalidad y Revisión de Plagio**
+- Todos los TFG pasarán por el programa antiplagio para la detección de plagio y creación de contenido por parte de una IA.
+
+**4.	Documento de Transparencia y Declaración de Uso de IA**
+
+Todo estudiante que emplee herramientas de inteligencia artificial (IA) en cualquier fase del TFG debe especificar de forma detallada:
+- **En qué fase y/o partes del TFG se utilizó la IA:** ya sea en la fase de recopilación de información, análisis de datos propuestos, organización de ideas o redacción.
+- **Los términos o preguntas formuladas a la IA:** el estudiante debe incluir una lista específica de las consultas, preguntas o instrucciones dadas a la IA durante el desarrollo del trabajo.
+- **Resultados obtenidos con IA:** los estudiantes deben documentar los resultados generados por la IA y explicar cómo fueron utilizados o adaptados en el TFG.
+  
+**Declaración de uso:** Además, cada estudiante deberá firmar un **documento de declaración del uso de IA** que será enviado por email a la profesora Eva Moreno Bella. Este documento confirmará que los resultados obtenidos han sido empleados de manera [ética](https://www.uned.es/universidad/inicio/institucional/areas-direccion/vicerrectorados/innovacion/iaeducativa.html) y en conformidad con estas normas. La profesora facilitará al alumnado este documento, el cual debe ser firmado por el/la estudiante antes de la fecha límite de entrega del TFG en la convocatoria correspondiente.
+
+### **Recursos para citas y referencias en formato [APA](https://normas-apa.org/)**  
+
+Podéis acceder a los tutoriales de la biblioteca de la UNED, donde encontraréis información sobre las [normas APA](https://www.youtube.com/watch?v=gTURFhZkoIs) y los [errores más frecuentes](https://www.youtube.com/watch?v=Hxagy2iZDng) al citar referencias.  
+
+Además, es recomendable utilizar un [gestor bibliográfico gratuito](https://www.youtube.com/watch?v=4CaVpuyFeB4) como Zotero o Mendeley, ya que facilitan la generación automática de citas y referencias, lo que ayuda a ahorrar tiempo y reducir errores. Sin embargo, es importante revisar siempre las citas generadas para asegurarse de que sean correctas.
+
