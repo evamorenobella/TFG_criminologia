@@ -13,7 +13,7 @@ Los siguientes puntos detallan lo que se espera de los estudiantes asignados a e
 
 Dado el perfil de mi trabajo, los estudiantes que hayan sido asignados a mi línea de TFG deberán hacer un TFG de la **modalidad "investigación"**
 
-El objetivo del TFG será, por lo tanto, plantear una pregunta de investigación y una hipótesisque nos permita avanzar en el conocimiento sobre dicho tema más allá de lo que ya conocemos. Una vez planteada la pregunta de investigación y la hipótesis, se debe proponer el diseño de un estudio para poner a prueba la hipótesis planteada.  
+El objetivo del TFG será, por lo tanto, plantear una pregunta de investigación y una hipótesis que nos permitan avanzar en el conocimiento sobre dicho tema más allá de lo que ya conocemos. Una vez planteada la pregunta de investigación y la hipótesis, se debe proponer el diseño de un estudio para poner a prueba la hipótesis planteada.  
 
 La clave para hacer un buen TFG es, primero, ser capaz de plantear una buena hipótesis. Para ello es recomendable leer el documento **"La formulación de hipótesis"**, que se habrá enviado mediante email.  
 
