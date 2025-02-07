@@ -40,7 +40,7 @@ Os habré enviado por email un par de documentos de ayuda para la elaboración d
 - [Heilman (2012)](https://doi.org/10.1016/j.riob.2012.11.003)
 - [Ponthieux & Meurs (2015)](https://doi.org/10.1016/B978-0-444-59428-0.00013-8)
 
-Una vez definido y consensuado el tema (adelantármelo cuando lo sepáis por correo electrónico) debéis elaborar un primer borrador del TFG, con límite de entrega en buzón de Ágora el 25 de marzo, y esta estructura fundamental:
+Una vez definido y consensuado el tema (debéis enviar una propuesta inicial) debéis elaborar un **primer borrador del TFG**, con límite de entrega en buzón de Ágora el 25 de marzo, y esta estructura **fundamental**:
 
 **1. Introducción y revisión teórica**, basada en una revisión de lecturas realizadas sobre la temática elegida. Puedes realizar búsquedas a partir de Google Scholar -con interés especial en artículos que incorporen variables de tipo psicosocial, dada la línea en la que estamos- y también "tirando" de otras fuentes institucionales y/o criminológicas pertinentes de calidad. Hay que delimitar los trabajos más relevantes de los últimos 5 años seleccionando aquellos aspectos concretos del objeto de estudio sobre los que quieres centrarte (ya que podrías encontrarte una casuística amplia). Si tienes problemas con el inglés, puedes clicar "traducir de forma automática" al pasar sobre cada artículo e incluso sobre las propias búsquedas, sin miedo. Este apartado debe también dar respuesta a las preguntas:  
 
