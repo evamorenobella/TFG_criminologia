@@ -2,7 +2,6 @@
 
 El alumnado deberá trabajar en alguna de las siguientes líneas:
 
-- Los procesos psicosociales de la radicalización, extremismo violento y terrorismo. Desradicalización y desvinculación.
 - Factores psicosociales y económicos asociados al extremismo político y violencia política.
 - Desigualdad de género.
 
