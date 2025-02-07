@@ -38,3 +38,4 @@ Os habré mandado por email un par de documentos de ayuda para la elaboración d
 - [Brandt & Henry (2012)](https://doi.org/10.1177/0146167212449871)
 - [Ellemers (2018)](https://doi.org/10.1146/annurev-psych-122216-011719)
 - [Heilman (2012)](https://doi.org/10.1016/j.riob.2012.11.003)
+- [Ponthieux & Meurs (2015)](https://doi.org/10.1016/B978-0-444-59428-0.00013-8)
