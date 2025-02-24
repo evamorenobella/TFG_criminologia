@@ -46,15 +46,17 @@ Una vez definido y consensuado el tema (debéis enviar una propuesta inicial) de
 
 ¿Cuál es (son) el (los) fundamento(s) empírico(s) que apoyan el TFG? ¿Qué problema estás intentando responder o, a qué pregunta-s intentas dar respuesta? ¿Qué objetivos tiene tu trabajo? Estos deben estar claramente establecidos y bien justificados y razonados, según la literatura revisada. ¿Qué es nuevo en tu trabajo que no se haya hecho antes? (ESTE PUNTO ES FUNDAMENTAL). 
   
-**2. Desarrollo (Subdividido en apartados)**. A partir de lo definido en el punto anterior proponer intervenciones y/o investigaciones que permitan reducir la incidencia de los delitos, contribuir a su prevención y/o rehabilitar a sus penados. El apartado debe incluir también estos dos subapartados:  
+**2. Desarrollo (Subdividido en apartados)**. A partir de lo definido en el punto anterior proponer un diseño de investigación que permita abordar el objetivo planteado. El apartado debe incluir también estos dos subapartados:  
 
-*Método:* Sujetos y/o procedimiento (tareas) que serían llevados a cabo para poner cubrir los objetivos mencionados. Si es una investigación ¿Qué muestras quieres estudiar y por qué? ¿Qué medidas (escalas, cuestionarios, etc.) tienes pensado utilizar y por qué? ¿Qué justificación tienes para hacerlo?, si es una intervención ¿qué principales programas se ha llevado a cabo hasta la fecha al respecto y cuál es su eficacia?   
+*Método:* Sujetos y/o procedimiento (tareas) que serían llevados a cabo para poner cubrir los objetivos mencionados. Si es una investigación ¿Qué muestras quieres estudiar y por qué? ¿Qué medidas (escalas, cuestionarios, etc.) tienes pensado utilizar y por qué? ¿Qué justificación tienes para hacerlo?  
 
-*Resultados:* En función de si es una investigación o una intervención, exposición de cuáles serían los análisis de datos adecuados para someter a contraste los objetivos planteados y qué resultados se podrían obtener ¿Qué tipo de análisis e indicadores utilizarías y por qué? ¿Qué resultados prevés alcanzar y por qué? ¿Qué aspectos podrían mejorarse de los actuales programas de intervención?  
+*Resultados:* En función de si es una investigación, exposición de cuáles serían los análisis de datos adecuados para someter a contraste los objetivos planteados y qué resultados se podrían obtener ¿Qué tipo de análisis e indicadores utilizarías y por qué? ¿Qué resultados prevés alcanzar y por qué? ¿Qué aspectos podrían mejorarse de los actuales programas de intervención?  
 
 **3. Conclusiones.** Finalmente debe plantearse cuál es/son la conclusión/conclusiones que se pretende/n obtener con el trabajo.  
 
 **4. Referencias bibliográficas en formato APA**
+
+**EXTENSIÓN MÁXIMA DEL TRABAJO: 25 PÁGINAS (sin incluir referencias bibliográficas, tablas/figuras ni anexos)**
 
 ## Fechas importantes:
 **CONVOCATORIA DE JUNIO:**
